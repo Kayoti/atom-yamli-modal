@@ -6,7 +6,7 @@
 
 Add modal Yamli Editor Page
 
-This package may not work with some themes such as (atom material), try switching themes if the modal does not load properly.
+This package may not work with some themes such as (atom material), try switching themes if the modal does not load.
 ![Atom Yamli Modal](https://github.com/Kayoti/atom-yamli-modal/blob/master/screenshot.png)
 
 ## Install
