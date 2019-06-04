@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Yamli Modal",
+          "submenu": [
+            {
+              "label": "Open",
+              "command": "Yamli Modal: Toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

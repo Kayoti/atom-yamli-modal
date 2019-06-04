@@ -1,0 +1,37 @@
+{
+  "name": "atom-yamli-modal",
+  "main": "./lib/atom-yamli-modal",
+  "version": "1.1.0",
+  "description": "Add Yamli Editor page",
+  "keywords": [
+    "yamli",
+    "translate",
+    "translator",
+    "toggle",
+    "arabic",
+    "العربية",
+    "bidirectional",
+    "keyboard",
+    "rtl"
+  ],
+  "repository": "https://github.com/kayoti/atom-yamli-modal",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  },
+  "xo": {
+    "space": 2,
+    "envs": [
+      "browser"
+    ],
+    "globals": [
+      "atom"
+    ]
+  },
+  "devDependencies": {
+    "xo": "^0.17.1"
+  }
+}
