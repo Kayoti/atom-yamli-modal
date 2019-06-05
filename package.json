@@ -1,7 +1,7 @@
 {
   "name": "atom-yamli-modal",
   "main": "./lib/atom-yamli-modal",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Add Yamli Editor page",
   "keywords": [
     "yamli",
